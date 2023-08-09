@@ -1,0 +1,487 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2013-02-15 21:00+GMT+3\n"
+"Last-Translator: Vasil Vasilev.<ekspert.bg@gmail.com>\n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " channels"
+msgstr " канали"
+
+msgid "%1.1f GB"
+msgstr "%1.1f ГБ"
+
+msgid "%1.1f MB"
+msgstr "%1.1f МБ"
+
+msgid "%1.1f kB"
+msgstr "%1.1f кБ"
+
+msgid "%d channels group(s) have been successfully added."
+msgstr "Каналите са %d успешно добавени."
+
+msgid "%ld byte"
+msgstr "%ld байт"
+
+msgid "%ld bytes"
+msgstr "%ld байтове"
+
+msgid "%m/%d/%Y %H:%M"
+msgstr "%m/%d/%Y %H:%M"
+
+msgid "%m/%d/%y"
+msgstr "%m/%d/%y"
+
+msgid "<b>Channel VLC options:</b>"
+msgstr "<b>VLC параметри на канала:</b>"
+
+msgid "<b>Configuration file (vlcrc)</b>"
+msgstr "<b>Конфигурационен файл (vlcrc)</b>"
+
+msgid "<b>Connection</b>"
+msgstr "<b>Съединения</b>"
+
+msgid "<b>Destination</b>"
+msgstr "<b>Местоназначение</b>"
+
+msgid "<b>Notifications</b>"
+msgstr "<b>Уведомления</b>"
+
+msgid "<b>Processing of channels' name</b>"
+msgstr "<b>Обработка имена на канали</b>"
+
+msgid "<b>Proxy</b>"
+msgstr "<b>Прокси</b>"
+
+msgid "<b>Recording period</b>"
+msgstr "<b>Време на запис</b>"
+
+msgid "<b>Search of channels</b>"
+msgstr "<b>Търсене на канали</b>"
+
+msgid "<b>Special group type:</b>"
+msgstr "<b>Тип на списка:</b>"
+
+msgid "<b>Startup</b>"
+msgstr "<b>Стартиране ...</b>"
+
+msgid "<b>Transcoding options</b>"
+msgstr "<b>Настройки на кодиране</b>"
+
+msgid "<i>Restart the application after changing this option.</i>"
+msgstr "<i>Нужен е рестарт за прилагане на настройката</i>"
+
+msgid "Activate/Deactivate the window always on top"
+msgstr "Активиране/Деактивиране винаги отгоре"
+
+msgid "Add a group"
+msgstr "Добави група канали"
+
+msgid "Add a recording"
+msgstr "Добавит записване"
+
+msgid "Add to favourites"
+msgstr "Добави в избрани"
+
+msgid "Add/create a channels group from different sources"
+msgstr "Добави/Създай списък канали от различи източници"
+
+msgid "Adding channels group: <i>%s</i>"
+msgstr "Добави група канали : <i>%s</i>"
+
+msgid "Adding channels groups"
+msgstr "Добавяне на списъци с канали"
+
+msgid "An error occurred"
+msgstr "Получи се ГРЕШКА"
+
+msgid ""
+"An error occurred while playing channel '%s' : %s\n"
+"\n"
+"If the problem persist, you can report that the link is dead at %s"
+msgstr ""
+"Грешка при възпроизвеждане на канала '%s' : %s\n"
+"\n"
+"Ако грешката се повтаря, можете да събщите за неработещ линк  %s"
+
+msgid "Are you sure you want to quit?"
+msgstr "Наистина ли излизате?"
+
+msgid "Channel properties"
+msgstr "Свойства на канала"
+
+msgid "Channel's URI:"
+msgstr "URI адрес на канала"
+
+msgid "Channel's name:"
+msgstr "Име на канала"
+
+msgid "Channels"
+msgstr "Канали"
+
+msgid "Channels groups file:"
+msgstr "XML Файл със списъци на канали:"
+
+msgid "Channels' search text area"
+msgstr "Търсене на канал (съвпадение на текста от името)"
+
+msgid "Custom channels group"
+msgstr "Нов списък канали"
+
+msgid "Deinterlacement:"
+msgstr "Деинтерлейс:"
+
+msgid "Delete group's channels"
+msgstr "Премахване на съдържанието на списъка"
+
+msgid "Delete the search text area"
+msgstr "Премахване на текст от полето"
+
+msgid "Delete this text before the name:"
+msgstr "Премахване на този текст от началото на името:"
+
+msgid "Delete this text behind the name:"
+msgstr "Премахване на този текст от края на името:"
+
+msgid "Details"
+msgstr "Детайли"
+
+msgid "Directory Record:"
+msgstr "Директория за запис:"
+
+msgid "Disable"
+msgstr "Изключване"
+
+msgid "Do you want to move the related file on the hard disk to the trash?"
+msgstr "Наистина ли да се изтрие?"
+
+msgid "Download timeout (seconds) :"
+msgstr "Максимално време на изчакване за кеширане на канала (в секунди):"
+
+msgid "Duration:"
+msgstr "Продължителност"
+
+msgid "Enable desktop notifications"
+msgstr "Уведомления на работния плот"
+
+msgid "End time:"
+msgstr "Изтичане на времето"
+
+msgid ""
+"Error when adding the channels.\n"
+"\n"
+"M3UParser has returned error:\n"
+"%s."
+msgstr ""
+"Грешка при добавяне на накали.\n"
+"\n"
+"M3UParser отговори с грешка:\n"
+"%s."
+
+msgid "Existing channels group"
+msgstr "Готови списъци с канали"
+
+msgid "Favourites"
+msgstr "Избрани"
+
+msgid "Format:"
+msgstr "Формат:"
+
+msgid "FreetuxTV Television Channels Player"
+msgstr "FreetuxTV Програма за преглед и запис на ТВ-канали"
+
+msgid "Fullscreen mode"
+msgstr "Цял ексран"
+
+msgid "General"
+msgstr "Основни настройки"
+
+msgid "Getting the file: \"%s\""
+msgstr "Получавам файла: \"%s\""
+
+msgid "Go back to the normal mode"
+msgstr "Връщане в нормален режим"
+
+msgid "Go to the current channel playing"
+msgstr "Връщане към текущия канал"
+
+msgid "Group properties"
+msgstr "Параметри на група"
+
+msgid "Group's name:"
+msgstr "Име на група"
+
+msgid "Ignore diacritics"
+msgstr "Игнориране на специални символи"
+
+msgid "In progress"
+msgstr "В процес"
+
+msgid "Initializing user configuration..."
+msgstr "Определят се настройки на потребителя..."
+
+msgid "Jump to current channel"
+msgstr "Отиди на текущия канал"
+
+msgid "Languages/Channels group"
+msgstr "Списък канали по език:"
+
+msgid "Loading the list of channels..."
+msgstr "Зарежда се списък на канали..."
+
+msgid "Loading the list of recordings..."
+msgstr "Зарежда списък на записите..."
+
+msgid "Loading user configuration..."
+msgstr "Зареждат се настройки потребителя..."
+
+msgid "Manual proxy configuration"
+msgstr "Ръчна настройка на прокси"
+
+msgid "Mute"
+msgstr "Заглуши"
+
+msgid "Name of the group which will be added"
+msgstr ""
+"Името на списъка с канали който ще се добави.\n"
+"Например: Моя списък д канали"
+
+msgid "Network"
+msgstr "Мрежа"
+
+msgid "New group"
+msgstr "Нова група"
+
+msgid "Next channel"
+msgstr "Следващ канал"
+
+msgid "No proxy"
+msgstr "Без прокси"
+
+msgid "No transcoding"
+msgstr "Без кодиране"
+
+msgid "None"
+msgstr "Няма"
+
+msgid "Number of channels:"
+msgstr "Количество канали:"
+
+msgid "Options"
+msgstr "Опции"
+
+msgid "Password:"
+msgstr "Парола:"
+
+msgid "Play last channel on startup"
+msgstr "Пусни последния гледан канал при стартиране"
+
+msgid "Play the current channel"
+msgstr "Изпълнение"
+
+msgid "Playing: %s"
+msgstr "Изпълнява се: %s"
+
+msgid "Playlist's URI of the group which will be added"
+msgstr ""
+"Адресът содержащ списък с канали който ще бъде добавен\n"
+"(линк на m3u файл или в друг читаем формат)\n"
+"Например: http://database.freetuxtv.net/playlists/playlist_webtv_ru.m3u"
+
+msgid "Playlist's URI:"
+msgstr "URI адрес на плейлиста:"
+
+msgid "Please enter the group's URI !"
+msgstr "Моля въведете URI адрес на списка!"
+
+msgid "Please enter the group's name !"
+msgstr "Моля въведете име списъка с канал!"
+
+msgid "Please select a least one group !"
+msgstr "Моля изберете минимум един списък!"
+
+msgid "Predefined transcoding formats"
+msgstr "Изберете формат на кодиране"
+
+msgid "Preferences"
+msgstr "Настройки"
+
+msgid "Previous channel"
+msgstr "Предишен канал"
+
+msgid "Project's Web Site"
+msgstr "Сайт на проекта"
+
+msgid "Proxy port:"
+msgstr "Порт на прокси сървъра:"
+
+msgid "Proxy server:"
+msgstr "Прокси сървър:"
+
+msgid "Proxy type:"
+msgstr "Тип на прокси:"
+
+msgid "Record the current channel"
+msgstr "Запис"
+
+msgid "Recording: %s"
+msgstr "Записва се: %s"
+
+msgid "Recording: %s (%s) -> %s (%s)"
+msgstr "Запис: %s (%s) -> %s (%s)"
+
+msgid "Recordings"
+msgstr "Видеозаписи"
+
+msgid "Required ISP"
+msgstr "Необходим е провайдер"
+
+msgid "Search:"
+msgstr "Търсене:"
+
+msgid "Select a directory"
+msgstr "Изберете директория"
+
+msgid ""
+"Select one or several channels group you want to add and click on the add "
+"button."
+msgstr ""
+"Изберете един или няколко плсйлиста и натиснете бутона Добави."
+
+msgid "Selected channel:"
+msgstr "Избран канал"
+
+msgid "Small mode"
+msgstr "Компактен режим"
+
+msgid "Special group"
+msgstr "Списък избрани"
+
+msgid "Start time:"
+msgstr "Начално време:"
+
+msgid "Stop playing the current channel"
+msgstr "Спиране"
+
+msgid "Stopping channel: %s"
+msgstr "Спиране на канал: %s"
+
+msgid ""
+"Synchronize the TV channels list in the local database from the XML database"
+msgstr ""
+"Синхронизиране на списък канали от XML(стандартна) база в локална база с "
+"канали"
+
+msgid "Synchronizing the list of tv channels..."
+msgstr "Синхронизиране на списък тв канали..."
+
+msgid "Synchronizing the list of tv channels: %s..."
+msgstr "Синхронизиране на списък тв канали: %s..."
+
+msgid "Synchronizing the tv channels list"
+msgstr "Синхронизиране на списка с канали"
+
+msgid "Television Channels Player"
+msgstr "Преглед на ТВ-канали"
+
+msgid "Terminated"
+msgstr "Приключване"
+
+msgid ""
+"Text or regexp which must be deleted at the beginning of the channel's name"
+msgstr "Текст или регулярен израз премахван от края на името на канала"
+
+msgid "Text or regexp which must be deleted at the end of the channel's name"
+msgstr ""
+"Текст или регулярен израз премахван от начлото на името на канала"
+
+msgid "Title:"
+msgstr "Название:"
+
+msgid "URI"
+msgstr "Интернет адрес URI"
+
+msgid "Update \"%s\" channels list"
+msgstr "Обновяване списъка с канали \"%s\""
+
+msgid "Use a custom configuration file"
+msgstr "Използване на друг конфигурационен файл"
+
+msgid "Use authentification"
+msgstr "Използване на удостоверяване"
+
+msgid "Use the VLC configuration file"
+msgstr "Използване на файл конфигурация на VLC"
+
+msgid "Username:"
+msgstr "Потребителско име:"
+
+msgid "View file"
+msgstr "Преглед на файл"
+
+msgid "Vol:"
+msgstr "Сила звук"
+
+msgid "Watch television channels from internet"
+msgstr "Гледане и запис на ТВ канали онлайн"
+
+msgid "Web TV (Russian)"
+msgstr "Интернет ТВ (Русскоязычные каналы)"
+
+msgid "Web TV channels player"
+msgstr "Програма за гледане и запис на ТВ канали"
+
+msgid ""
+"You can easily use regular expressions to delete some text in the channel's "
+"name of the groupe. For example, if in your playlist, you have a name like "
+"\"11 - NT1\" or \"12 - NRJ 12\", FreetuxTV is able to remove the channel's "
+"number before the name, by using the regular expression \"[0-9]* - \"."
+msgstr ""
+"Можете да използвате регулярни изрази за да премахнете текст в името на "
+"канала.\n"
+"Например, в списъка на възпроизвеждане името:\n"
+"\"11 - Телеканал 2x2\". \n"
+"\"12 - Култура\". \n"
+"\"11 - \" и \"12 - \" пред името на канала се премахва с филтъра: "
+"\"[0-9]* - \""
+
+msgid "_Add a group"
+msgstr "_Добави списък с канали"
+
+msgid "_Channels"
+msgstr "_Канали"
+
+msgid "_Deinterlace"
+msgstr "_Деинтерлейс"
+
+msgid "_FreetuxTV"
+msgstr "_FreetuxTV"
+
+msgid "_Help"
+msgstr "_Помощ"
+
+msgid "_Synchronize TV channels database"
+msgstr "_Синхронизирай TV база данни с канали"
+
+msgid "_Video"
+msgstr "_Видео"
+
+msgid "is playing"
+msgstr "възпроизвежда се"
+
+msgid "is recording"
+msgstr "записва се"
+
+msgid "minutes"
+msgstr "минут(и)"
+
+msgid "none"
+msgstr "не е зададено"
+
+msgid "translator-credits"
+msgstr "Васил Василев <expert.bg@gmail.com>"
